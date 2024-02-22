@@ -1,0 +1,12 @@
+h1 {
+    background-color: green;
+    color: white;
+}
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    background-color: brown;
+}
