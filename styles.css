@@ -1,12 +1,39 @@
-h1 {
-    background-color: green;
-    color: white;
-}
-
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+div {
+    text-align: center;
+    color: white;
+    margin: 5px;
+}
+
+.topper {
+    background-color: #79b7db;
+    width: 500px;
+    margin-left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.sweet {
+    background-color: #e98b55;
+    margin-left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.savory {
+    background-color: #facc75;
+    margin-left: 50%;
+    transform: translate(-50%, 0);
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin-left: 50%;
+    transform: translate(-50%, 0);
+}
+
 li {
-    background-color: brown;
+    padding: 5px;
 }
